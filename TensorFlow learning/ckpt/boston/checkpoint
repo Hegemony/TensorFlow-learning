@@ -1,0 +1,6 @@
+model_checkpoint_path: "boston.ckpt-995"
+all_model_checkpoint_paths: "boston.ckpt-952"
+all_model_checkpoint_paths: "boston.ckpt-966"
+all_model_checkpoint_paths: "boston.ckpt-968"
+all_model_checkpoint_paths: "boston.ckpt-978"
+all_model_checkpoint_paths: "boston.ckpt-995"
